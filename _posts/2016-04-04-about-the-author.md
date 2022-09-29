@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Tabitha Yuen"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: https://images.app.goo.gl/fPs5MWCxrzLTjT436
 ---
-
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+ Tabitha Yuen is a teenage writer, freelancer, and journalist. Her works have appeared in Teen Vogue and the Cherry Picks. She enjoys watching all things Marvel, petting her cats, and TikTok. 
