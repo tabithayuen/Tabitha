@@ -2,17 +2,10 @@
 layout: category
 title: Works
 category: Works
-permalink: /facts
+permalink: /works
 ---
 
-Fun Facts
-
----
-layout: category
-title: WORKS
-category: Works
-permalink: /Works
----
+Works
 
 Tabitha Yuen has been writing published articles since the age of fourteen. Her works emphasize culture, identity, film and television, and race. However, she is open to writing about other topics. If interested in contacting Tabitha for an article, reach her at tabithayuenbusiness@gmail.com.
 
