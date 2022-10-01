@@ -1,5 +1,14 @@
 ---
 layout: category
+title: Works
+category: Works
+permalink: /facts
+---
+
+Fun Facts
+
+---
+layout: category
 title: WORKS
 category: Works
 permalink: /Works
