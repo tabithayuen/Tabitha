@@ -11,7 +11,6 @@ Tabitha Yuen has been writing published articles since the age of fourteen. Her 
 
 ## [Teen Vogue Maitreyi Ramakrishnan Interview](https://www.teenvogue.com/story/never-have-i-ever-season-3-maitreyi-ramakrishnan-interview)
 
-
 <img src="{{ site.baseurl }}/assets/img/lolatung.jpg">
 
 ## [Teen Vogue Lola Tung Interview](https://www.teenvogue.com/story/the-summer-i-turned-pretty-star-lola-tung-on-self-love-asian-representation-and-taylor-swift)
