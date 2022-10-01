@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Works
-category: Works
 permalink: /works
 ---
 
