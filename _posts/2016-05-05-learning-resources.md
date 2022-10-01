@@ -15,16 +15,16 @@ image: maitreyi ramakrishnan.jpg
 ---
 
 ## [Teen Vogue Lola Tung Interview](https://www.teenvogue.com/story/the-summer-i-turned-pretty-star-lola-tung-on-self-love-asian-representation-and-taylor-swift)
-
-<img src="(https://images.app.goo.gl/q67BiX3pKMWyHsSw6)" alt="Lola Tung">
-
+---
+image: lolatung.jpg
+---
 
 ## [Teen Vogue Turning Red Op-Ed](https://www.teenvogue.com/story/turning-red-made-me-feel-understood-as-a-chinese-american-teen)
-
-<img src="(https://images.app.goo.gl/W7QWKSSjTqJM4nR98)" alt="Turning Red">
-
+---
+image: teenvoguemei.jpg
+---
 
 ## [The Cherry Picks Turning Red Op-Ed](https://www.thecherrypicks.com/stories/turning-red-teenage-girl/)
-
-
-<img src="(https://images.app.goo.gl/Wwvwh2Pd9pL4H5Bb9)" alt="Turning Red">
+---
+image: turningredcherry.jpg
+---
