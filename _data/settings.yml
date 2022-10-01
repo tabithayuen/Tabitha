@@ -7,10 +7,6 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Facts',  url: 'facts'}
-- {name: 'Resources', url: 'resources'}
-- {name: 'Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Works',       url: 'works'}
 - {name: 'Contact',            url: 'contact'}
